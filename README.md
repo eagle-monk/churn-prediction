@@ -1,6 +1,6 @@
-# Churn Prediction using Google Colab
+# Churn Prediction Model
 
-This project uses machine learning models to predict customer churn using a dataset from Kaggle. The entire workflow is implemented in a Google Colab notebook.
+This is a ML model to predict customer churn using a dataset from Kaggle. The entire workflow is implemented in a Google Colab notebook.
 
 ---
 
