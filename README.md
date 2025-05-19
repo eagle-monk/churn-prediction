@@ -60,6 +60,13 @@ Using techniques like SMOTE or class weighting
 Exploring additional features or different model architectures
 
 ---
+## To Do for better results
+
+- Hyperparameter tuning
+- Try model selection
+- Try downsampling
+- Try to address the overfitting problem
+- Try to stratified k-fold CV
 
 ##  How to Run
 
